@@ -95,23 +95,42 @@
                         <img id="zoom_01"  data-zoom-image="<?php echo 'image/' . $image_product; ?>" src="<?php echo 'image/' . $image_product; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" />
                 </div>
                 <?php } ?>
-                <?php if ($images || $thumb1) { ?>
+                <?php if ($images || $thumb1) { //echo "<pre>"; var_dump($images);  ?>
                     <div class="image-additional">
                         <ul id="image-additional">
-                            <?php if (!empty($thumb1)) { ?>
-                            <li>
-                                <a href="#" data-image="<?php echo 'image/' . $image_product; ?>" data-zoom-image="<?php echo 'image/' . $image_product; ?>">
-                                        <img  src="<?php echo 'image/' . $image_product; ?>" alt="" />
+
+	                        <?php if (!empty($thumb1)) { ?>
+							<li>
+								<a href="#" data-image="<?php echo $thumb1; ?>" data-zoom-image="<?php echo $thumb1; ?>">
+									<img  src="<?php echo $thumb1; ?>" alt="" />
+								</a>
+							</li>
+							<?php } ?>
+							<?php foreach ($images as $image) { ?>
+							
+							 <li>
+								<a href="#" data-image="<?php echo $image['popup']; ?>" data-zoom-image="<?php echo $image['popup']; ?>">
+									<img  src="<?php echo $image['thumb']; ?>" alt="" />
+								</a>
+							</li>
+							<?php } ?>
+
+                            <?php //if (!empty($thumb1)) { ?>
+                            <!--<li>
+                                <a href="#" data-image="<?php //echo 'image/' . $image_product; ?>" data-zoom-image="<?php //echo 'image/' . $image_product; ?>">
+                                        <img  src="<?php //echo 'image/' . $image_product; ?>" alt="" />
                                 </a>
                             </li>
-                            <?php } ?>
-                            <?php foreach ($images as $image) { ?>
+                            <?php //} ?>
+                            <?php //foreach ($images as $image) { ?>
                              <li>
-                                <a href="#" data-image="<?php echo 'image/' . $image_product_popup; ?>" data-zoom-image="<?php echo 'image/' . $image_product_popup; ?>">
-                                        <img  src="<?php echo 'image/' . $image_product; ?>" alt="" />
+                                <a href="#" data-image="<?php //echo 'image/' . $image_product_popup; ?>" data-zoom-image="<?php //echo 'image/' . $image_product_popup; ?>">
+                                        <img  src="<?php //echo 'image/' . $image_product; ?>" alt="" />
                                 </a>
-                            </li>
-                            <?php } ?>
+                            </li>-->
+                            <?php //} ?>
+
+
                         </ul>
                         <div class="clear"></div>
                     </div>

@@ -1479,3 +1479,26 @@
 2015-07-01 11:54:35 - PHP Notice:  Undefined variable: text_feedback in /home/sssmine/www/gigprinting/catalog/view/theme/theme483/template/module/information.tpl on line 16
 2015-07-01 23:23:30 - PHP Notice:  Undefined variable: text_feedback in /home/sssmine/www/gigprinting/catalog/view/theme/theme483/template/module/information.tpl on line 16
 2015-07-01 2:03:10 - PHP Notice:  Undefined variable: product_id in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 409
+2015-07-01 2:12:18 - PHP Notice:  Undefined variable: attribute_row in E:\DATA\WEB\Run\htdocs\gig_final\admin\view\template\catalog\product_form.tpl on line 838
+2015-07-01 2:12:18 - PHP Notice:  Undefined variable: discount_row in E:\DATA\WEB\Run\htdocs\gig_final\admin\view\template\catalog\product_form.tpl on line 1077
+2015-07-01 2:12:18 - PHP Notice:  Undefined variable: special_row in E:\DATA\WEB\Run\htdocs\gig_final\admin\view\template\catalog\product_form.tpl on line 1104
+2015-07-01 2:12:33 - PHP Notice:  Undefined index: points in E:\DATA\WEB\Run\htdocs\gig_final\admin\model\catalog\product.php on line 127
+2015-07-01 2:12:51 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:15:17 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:15:40 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:16:15 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:21:29 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:22:13 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:22:23 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-01 2:22:23 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-01 2:22:23 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-01 2:22:23 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-01 2:22:23 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-01 2:22:23 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-01 2:22:23 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-01 2:22:23 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-01 2:22:23 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-01 2:22:23 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-01 2:22:23 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:22:30 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-01 2:22:39 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
