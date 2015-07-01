@@ -1,0 +1,12 @@
+<modification>
+	<id>upload file size limit</id>
+	<version>1.0.0</version> 
+	<vqmver>2.3.0</vqmver>
+	<author>TM</author>
+	<file name="admin/controller/common/filemanager.php">
+		<operation>
+			<search position="replace"><![CDATA[if ($this->request->files['image']['size'] > 300000) {]]></search>
+			<add><![CDATA[if ($this->request->files['image']['size'] > 2500000) {]]></add>
+		</operation>
+	</file>
+</modification>

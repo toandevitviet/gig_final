@@ -1,0 +1,72 @@
+---------- Date: 2015-05-04 16:03:02 ~ IP : 118.71.145.116 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=710a51a7fb337710865cfc1821f7509b
+VQMod::_parseMods - DOM UNABLE TO LOAD: /home/sssmine/www/gigprinting/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/oc_watermark_on_all_images_uploadssss.xml
+   id        : Add watermark on all images at upload via filemanager
+   version   : 1.1.0
+   vqmver    : 2.0.0
+   author    : toanktv.it@gmail.com
+
+File Name    : system/library/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $watermark = $this->create($file);
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-04 16:08:40 ~ IP : 118.71.145.116 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+VQMod::_parseMods - DOM UNABLE TO LOAD: /home/sssmine/www/gigprinting/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/oc_watermark_on_all_images_uploadssss.xml
+   id        : Add watermark on all images at upload via filemanager
+   version   : 1.1.0
+   vqmver    : 2.0.0
+   author    : toanktv.it@gmail.com
+
+File Name    : system/library/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $watermark = $this->create($file);
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-04 16:22:37 ~ IP : 118.71.145.116 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/oc_watermark_on_all_images_upload.xml
+   id        : Add watermark on all images at upload via filemanager
+   version   : 1.1.0
+   vqmver    : 2.0.0
+   author    : toanktv.it@gmail.com
+
+File Name    : system/library/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $watermark = $this->create($file);
+
+File Name    : system/library/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $watermark = $this->create($file);
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-04 16:24:08 ~ IP : 118.71.145.116 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&amp;token=710a51a7fb337710865cfc1821f7509b
+VQMod::_parseMods - DOM UNABLE TO LOAD: /home/sssmine/www/gigprinting/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/oc_watermark_on_all_images_upload.xml
+   id        : Add watermark on all images at upload via filemanager
+   version   : 1.1.0
+   vqmver    : 2.0.0
+   author    : toanktv.it@gmail.com
+
+File Name    : system/library/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $watermark = $this->create($file);
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-04 16:24:13 ~ IP : 118.71.145.116 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&amp;token=710a51a7fb337710865cfc1821f7509b
+VQMod::_parseMods - DOM UNABLE TO LOAD: /home/sssmine/www/gigprinting/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+----------------------------------------------------------------------
+
+

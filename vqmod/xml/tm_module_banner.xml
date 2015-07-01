@@ -1,0 +1,12 @@
+<modification>
+	<id>Category module</id>
+	<version>1.0.0</version>
+	<vqmver>2.3.0</vqmver>
+	<author>Tm</author>
+	<file name="catalog/controller/module/banner.php">
+		<operation error="skip">
+			<search position="after"><![CDATA[ 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']) ]]></search>
+			<add><![CDATA[ , 'name' => $setting['banner_id'] ]]></add>
+		</operation>
+	</file>		
+</modification>

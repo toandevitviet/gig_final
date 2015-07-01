@@ -1,0 +1,52 @@
+.ui-accordion .ui-accordion-header a {
+	cursor:move !important;
+}
+#preview_set{
+	width:630px;
+	margin:10px auto;
+}
+#preview_button{
+	float:right;
+}
+#preview_image{
+	margin:0 auto;
+	width:400px;
+	padding:0;
+}
+#preview_image>img{
+border:solid 1px #f2f2f2
+}
+
+.notificatoin{
+	background: #FFF5CC url('attention.png') 10px center no-repeat;
+	padding: 10px 10px 10px 33px;
+	margin-bottom: 15px;
+	color: #555555;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-khtml-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+/*span.success{
+	background: #FFF5CC url('success.png') 10px center no-repeat;
+	padding: 10px 10px 10px 33px;
+	width: 100%;
+	margin-bottom: 15px;
+	color: #555555;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-khtml-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}*/
+
+select option[disabled]{
+	color: gray;
+}
+
+.discription{
+	font-style: italic;
+	font-size: 15px;
+	color: #666;
+	margin-top: 10px;
+}

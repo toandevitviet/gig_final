@@ -1,0 +1,181 @@
+<!-- Created using vQmod XML Generator by UKSB - http://www.opencart-extensions.co.uk //-->
+<modification>
+	<id><![CDATA[iWatermark]]></id>
+	<version><![CDATA[1.0]]></version>
+	<vqmver><![CDATA[2.2.1]]></vqmver>
+	<author><![CDATA[iSenseLabs Team]]></author>
+	<file name="system/library/image.php">
+		<operation>
+			<search position="before"><![CDATA[public function watermark]]></search>
+			<add><![CDATA[	// Begin iWatermark - from iwatermark.xml vqmod file
+	
+	public function iWatermark(&$setting) {
+		if ($setting['Enabled'] != 'true') return;
+		
+		$text_size = $setting['FontSize'];
+		
+		$font = IMODULE_ROOT.'vendors/iwatermark/font/'.$setting['Font'];
+		
+		if ($setting['Type'] == 'text') {
+			$text = $setting['Text'];
+			
+			$size = imagettfbbox($text_size, 0, $font, $text);
+		
+			$watermark_width = $size[4] - $size[6] + 5;
+			$watermark_height = $size[1] - $size[7] + 5;
+			
+			$im = imagecreatetruecolor($watermark_width, $watermark_height);
+			$backgroundalpha = imagecolorallocatealpha($im,0x00,0x00,0x00,127); 
+			$coloralpha = imagecolorallocatealpha($im,$setting['ColorRGB']['r'],$setting['ColorRGB']['g'],$setting['ColorRGB']['b'],round(127*(100-$setting['Opacity'])/100)); 
+			
+			imagefill($im, 0, 0, $backgroundalpha);
+			
+			if (function_exists('imagettftext')) {
+				imagettftext($im, $text_size, 0, 0, $text_size, $coloralpha, $font, $text);
+			} else {
+				imagestring($im, 5, 5, 5, $text, $coloralpha);
+			}
+			
+			$setting['UseImageOpacity'] = true;
+			
+		} else if ($setting['Type'] == 'image') {
+			$type = strtolower(substr($setting['ImagePath'], strrpos($setting['ImagePath'], '.') + 1));
+			if ($type == 'jpg' || $type == 'jpeg') $im = imagecreatefromjpeg($setting['ImagePath']);
+			else if ($type == 'png') $im = imagecreatefrompng($setting['ImagePath']);
+			
+			if (isset($im)) {
+				$watermark_width = imagesx($im);
+				$watermark_height = imagesy($im);
+			
+				if (empty($setting['UseImageOpacity'])) {
+					$background = imagecreatetruecolor($watermark_width, $watermark_height);
+					$black = imagecolorallocate($background, 0, 0, 0);
+					imagefilledrectangle($background, 0, 0, $watermark_width, $watermark_height, $black);
+					
+					imagecopy($background, $im, 0, 0, 0, 0, $watermark_width, $watermark_height);
+					$im = $background;
+				}
+			}
+		}
+		
+		// Rotate watermark
+		$im = imagerotate($im, (int)$setting['Rotation'], imagecolorallocatealpha($im,0x00,0x00,0x00,127));
+		
+		$watermark_width = imagesx($im);
+		$watermark_height = imagesy($im);
+		
+		// Resize watermark
+		$imageWidth = $this->info['width'];
+		
+		if ($imageWidth < $watermark_width) {
+			$proportion = $setting['ConfigWidth']/$watermark_width;
+			$watermark_proportion = $watermark_width/$watermark_height;
+			$watermark_new_width = ($proportion <= 1) ? $imageWidth*$proportion : $imageWidth/$proportion;
+			$watermark_new_height = $watermark_new_width/$watermark_proportion;
+			$im_new = imagecreatetruecolor($watermark_new_width, $watermark_new_height);
+			$coloralpha = imagecolorallocatealpha($im_new,0x00,0x00,0x00,127); 
+			imagefill($im_new, 0, 0, $coloralpha);
+			imagecopyresampled($im_new, $im, 0, 0, 0, 0, $watermark_new_width, $watermark_new_height, $watermark_width, $watermark_height);
+			$watermark_width = $watermark_new_width;
+			$watermark_height = $watermark_new_height;
+			$im = $im_new;
+		}
+		
+		if (isset($im)) {
+			switch($setting['Position']) {
+				case 'top_left':
+					$watermark_pos_x = 0;
+					$watermark_pos_y = 0;
+					break;
+				case 'top_right':
+					$watermark_pos_x = $this->info['width'] - $watermark_width;
+					$watermark_pos_y = 0;
+					break;
+				case 'center':
+					$watermark_pos_x = floor($this->info['width']/2 - $watermark_width/2);
+					$watermark_pos_y = floor($this->info['height']/2 - $watermark_height/2);;
+					break;
+				case 'bottom_left':
+					$watermark_pos_x = 0;
+					$watermark_pos_y = $this->info['height'] - $watermark_height;
+					break;
+				case 'bottom_right':
+					$watermark_pos_x = $this->info['width'] - $watermark_width;
+					$watermark_pos_y = $this->info['height'] - $watermark_height;
+					break;
+			}
+			
+			imagealphablending($this->image, true);
+			imagealphablending($im, true);
+			
+			if (!empty($setting['UseImageOpacity'])) imagecopy($this->image, $im, $watermark_pos_x, $watermark_pos_y, 0, 0, $watermark_width, $watermark_height);
+			else imagecopymerge($this->image, $im, $watermark_pos_x, $watermark_pos_y, 0, 0, $watermark_width, $watermark_height, $setting['Opacity']);
+			imagedestroy($im);
+		}
+	}
+	
+	// End iWatermark
+			]]></add>
+		</operation>
+	</file>
+	<file name="catalog/model/tool/image.php">
+		<operation>
+			<search position="after"><![CDATA[$image->resize($width, $height]]></search>
+			<add><![CDATA[				// iWatermark - from iwatermark.xml vqmod file
+				$this->load->model('module/iwatermark');
+				$iWatermarkSetting = $this->model_module_iwatermark->getSetting('iwatermark');
+				if (!empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]) && $iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['Enabled'] == 'true') {
+					$extra_conditions = array();
+					
+					if (!empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitCategories']) && $iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitCategories'] == 'specific' && !empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitCategoriesList'])) {
+						$extra_conditions[] = 'p2c.category_id IN (' . implode(',', $iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitCategoriesList']) . ')';
+					}
+					
+					if (!empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitRelated']) && $iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitRelated'] == 'specific' && !empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitRelatedList'])) {
+						$extra_conditions[] = 'p.product_id IN (' . implode(',', $iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitRelatedList']) . ')';
+					}
+				
+					$inProducts = $this->db->query('(SELECT image FROM ' . DB_PREFIX . 'product p JOIN ' . DB_PREFIX . 'product_to_category p2c ON (p.product_id = p2c.product_id) WHERE p.image="' . $filename . '"' . (!empty($extra_conditions) ? ' AND (' . implode(' OR ', $extra_conditions) . ')' : '') . ') UNION (SELECT image FROM ' . DB_PREFIX . 'product_image p JOIN ' . DB_PREFIX . 'product_to_category p2c ON (p.product_id = p2c.product_id) WHERE p.image="' . $filename . '"' . (!empty($extra_conditions) ? ' AND (' . implode(' OR ', $extra_conditions) . ')' : '') . ')');
+					
+					if ($inProducts->num_rows > 0) {
+						$imageConfig = array(
+							'ConfigWidth' => $this->config->get('config_image_popup_width'),
+							'ConfigHeight' => $this->config->get('config_image_popup_height')
+						);
+						$iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')] = array_merge($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')], $imageConfig);
+						//echo '<pre>'; print_r($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]); exit;
+						if ($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeType'] == 'all' || 
+							(
+								$iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeType'] == 'bigger_than' && 
+								(
+									(int)trim($width) > (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeWidth']) && empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeHeight']) || 
+									(int)trim($height) > (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeHeight']) && empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeWidth']) || 
+									(int)trim($width) > (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeWidth']) && (int)trim($height) > (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeHeight'])
+								)
+							)
+							||
+							(
+								$iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeType'] == 'smaller_than'  && 
+								(
+									(int)trim($width) < (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeWidth']) && empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeHeight']) || 
+									(int)trim($height) < (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeHeight']) && empty($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeWidth']) || 
+									(int)trim($width) < (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeWidth']) && (int)trim($height) < (int)trim($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]['LimitSizeHeight'])
+								)
+							)
+						) {
+							$image->iWatermark($iWatermarkSetting['iWatermark'][$this->config->get('config_store_id')]);
+						}
+					}
+				}
+				// end from iwatermark.xml]]></add>
+		</operation>
+		<operation error="skip">
+			<search position="replace"><![CDATA[if ($width_orig != $width || $height_orig != $height) {]]></search>
+			<add><![CDATA[if (1==1) {]]></add>
+		</operation>
+		<operation>
+			<search position="replace"><![CDATA['.' . $extension]]></search>
+			<add><![CDATA['_' . $this->config->get('config_store_id') . '.' . $extension]]></add>
+		</operation>
+	</file>
+</modification>

@@ -1,0 +1,2677 @@
+---------- Date: 2015-05-17 06:43:01 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:04 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:08 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:08 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:08 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:09 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-3.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:12 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/upload&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:13 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:14 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:15 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:15 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:19 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:43:19 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:51:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:29 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:33 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/upload&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:34 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:35 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:36 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:36 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:39 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image1
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:39 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image1
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:40 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2Fbanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:43 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/upload&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:43 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F12abc.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:44 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:46 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;field=image1
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:46 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;image=data%2F12abc.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:47 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:55:47 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=3519c390ae0ac0d662f55efae52ee98b
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 06:56:34 ~ IP : 118.71.115.33 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=3519c390ae0ac0d662f55efae52ee98b&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:16 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:19 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:30 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image3
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:30 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image3
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:30 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F12abc.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:31 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:35 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/directory&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:38 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:38 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:38 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:38 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:38 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:39 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:39 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:39 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:39 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:40 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:43 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:42:55 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:43:04 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:43:05 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:34 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:36 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F12abc.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:39 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/directory&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:41 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:42 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:42 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:44 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/delete&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:44 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:47:45 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:03 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/upload&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:04 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:11 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:11 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:12 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image0
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:12 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:17 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:48:17 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:11 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image1
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;field=image1
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F12abc.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:14 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:15 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:15 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:16 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/directory&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F12abc.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F1abx.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FNS_Svietlana_Missile_Cruiser.gif
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FPrinter%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2F111sss.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:18 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FImage01022.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:19 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FThermal%20rolls.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:19 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FXerox.png
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:20 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:20 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:20 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:21 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:21 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:21 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:21 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:21 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:21 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2.jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:23 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/delete&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:23 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:24 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:32 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/upload&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:32 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/files&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:34 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2%20(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:34 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-1(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:36 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=common/filemanager/image&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;image=data%2FMain%20Banners%2FBanner-2%20(resized).jpg
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_filemanager.xml
+   id        : upload file size limit
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/controller/common/filemanager.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): if ($this->request->files['image']['size'] > 300000) {
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:45 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:45 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:49:58 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:50:03 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 13:50:04 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:23:19 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:23:25 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:23:46 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:23:46 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:24:37 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:24:49 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner/update&amp;token=7d6d799fb2793617bf0d6e8ad687bf72&amp;banner_id=15
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:24:49 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=design/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-05-17 14:32:54 ~ IP : 59.189.161.156 ----------
+REQUEST URI : /admin/index.php?route=module/banner&amp;token=7d6d799fb2793617bf0d6e8ad687bf72
+MOD DETAILS:
+   modFile   : /home/sssmine/www/gigprinting/vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : admin/model/design/banner.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->db->query("INSERT INTO " . DB_PREFIX . "banner_image_description SET banner_image_id = '" . (int)$banner_image_id . "', language_id = '" . (int)$language_id . "', banner_id = '" . (int)$banner_id . "', title = '" .  $this->db->escape($banner_image_description['title']) . "'");
+
+----------------------------------------------------------------------
+
+

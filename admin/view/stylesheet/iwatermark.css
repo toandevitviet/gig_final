@@ -1,0 +1,358 @@
+/* ADMIN PANEL STYLES */
+
+/* iWatermarks */
+.iWatermarkContent ul, li {
+	list-style:none;
+	padding:0;
+	margin:0;	
+}
+
+.iWatermarkContent h1 .iWatermarksTitle {
+	color:#333;
+	font-family: Trebuchet MS;
+	font-size: 15px;
+	display: block;
+	float: left;
+	margin-right:20px;
+}
+
+.iWatermarkContent .box > .heading h1 {
+	width: 680px;	
+}
+
+ul.iWatermarkAdminMenu {
+	width: 160px;
+	list-style:none;
+	padding:0;
+	margin:-10px 0 0 -30px;
+	background:#EDEDED;
+	min-height: 319px;
+	float:left;
+	font-family: Trebuchet MS;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #CCC;
+}
+
+.iWatermarkAdminMenu li {
+	list-style:none;
+	padding:0;
+	margin:0;
+	display:block;
+	height: 38px;
+	margin-bottom: 0px;
+	line-height:38px;
+	padding-left: 30px;
+	font-size: 14px;
+	cursor:pointer;
+	color:#333;
+	text-shadow: #fff 1px 1px 0px;
+}
+
+.iWatermarkAdminMenu li.selected {
+	background:#CFDE55;
+}
+
+.iWatermarkAdminMenu li:hover {
+	color:#000;
+}
+
+
+.iWatermarkAdminSuperMenu {
+	float: left;	
+	margin-left: 19px;
+}
+
+.iWatermarkAdminSuperMenu li {
+	float: left;	
+	font-size: 14px;
+	line-height:23px;
+	cursor: pointer;
+	color: #333;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	padding: 0 10px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	margin-top: -7px;
+	margin-right: 5px;
+	background: #DBDBDB;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}
+
+.iWatermarkAdminSuperMenu li.selected {
+	background:#fff;
+	font-weight:bold;
+	color:#333;
+}
+
+
+.iWatermarkAdminWrappers {
+	list-style:none;
+	padding:0;
+	margin:0;	
+}
+
+.iWatermarkAdminWrappers li {
+	list-style:none;
+	padding:0;
+	margin:0;
+	height: 100%;
+	margin-bottom: 15px;
+	padding: 10px;
+	display: none;
+}
+
+.iWatermarkAdminWrappers hr {
+	border: none;
+	border-bottom: 1px dashed #ccc;
+}
+
+.iWatermarkAdminWrappers label {
+	min-width: 200px;	
+	margin-top:5px;
+	display:block;
+	float:left;
+	padding-right: 15px;
+}
+
+.iWatermarkAdminWrappers .iWatermarkFields > span {
+	float:left !important;	
+}
+
+.iWatermarkAdminWrappers select, .iWatermarkAdminWrappers input, .iWatermarkAdminWrappers textarea {
+	min-width: 140px;	
+}
+
+.iWatermarkAdminWrappers textarea {
+	min-height:140px;	
+	min-width:400px;
+}
+
+.iWatermarkAdminWrappers li:first-child {
+	display:block;	
+}
+
+.iWatermarkWrapperTitle {
+	font-size: 16px;
+	margin-bottom: 15px;	
+}
+
+.iWatermarkAdminSuperWrappers .content {
+	padding: 10px;
+	margin-left: 160px;
+	min-height: 320px;
+}
+
+.iWatermarkAdminSuperWrappers > li {
+	display:none;	
+}
+
+.iWatermarkAdminSuperWrappers > li:first-child {
+	display: block;
+}
+
+.iWatermarkContent .clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.iWatermarkContent .clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .iWatermarkContent .clearfix {
+	display: block;
+}
+ 
+* html .iWatermarkContent .clearfix {
+	height: 1%;
+}
+
+.iWatermarkAdminSuperWrappers .iWatermarkWrapperTitle h2 {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom:none;
+	text-transform:none;
+	font-size: 24px;
+}
+
+.iWatermarkAdminSuperWrappers .iWatermarkWrapperTitle h3 {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom:none;
+	text-transform:none;
+	font-size: 18px;
+}
+
+.iWatermarkAdminSuperWrappers .iWatermarkWrapperText {
+	font-size: 12px;	
+}
+
+.iWatermarkAdminSuperWrappers .supportUL, .iWatermarkAdminSuperWrappers .iWatermarkUL {
+	padding-left: 20px;	
+}
+
+.iWatermarkAdminSuperWrappers .iWatermarkSupportButton {
+	background:#51AA68;
+	padding: 10px 20px;
+	color:white;
+	border: 2px solid #fff;
+	outline: 2px solid #4E9660;
+	text-decoration:none;
+	display:inline-block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 16px;
+	
+}
+
+.iWatermarkAdminSuperWrappers .iWatermarkSupportButton:hover {
+	background:#4E9660;
+}
+
+.iWatermarkContent .box .notActivatedContent {
+	padding: 10px;
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+	min-height: 300px;
+	overflow: auto;	
+	text-align:center;
+	padding-top: 80px;
+}
+
+.iWatermarkContent .box .notActivatedContent h1 {
+	font-size:28px;
+	
+}
+
+.iWatermarkContent .iWatermarkActivateButton {
+	background:#069;
+	padding: 16px 28px;
+	color:white;
+	border: 4px solid #fff;
+	outline: 4px solid #ccc;
+	text-decoration:none;
+	display:inline-block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 34px;
+	
+}
+
+.iWatermarkContent .iWatermarkActivateButton:hover {
+	background:#06d;
+}
+
+.wideBoxes input, .wideBoxes textarea {
+	width:320px;
+}
+
+.iWatermarkContent .colorWidget .colorSelectorWrapper {
+	position: relative;
+	width: 36px;
+	height: 36px;
+}
+
+.iWatermarkContent .box .colorSelector {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 36px;
+	height: 36px;
+	background: url(../image/iwatermark/select2.png);
+}
+
+.iWatermarkContent .box .colorSelector div {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 28px;
+	height: 28px;
+	background: url(../image/iwatermark/select2.png) center;
+}
+
+.iWatermarkContent .box .colorSelector div:hover {
+	cursor: pointer;	
+}
+
+.iWatermarkContent .box .colorpickerHolder {
+	top: 0;
+	left: 30px;
+	width: 356px;
+	height: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: 100;
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker {
+	background-image: url(../image/iwatermark/custom_background.png);
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_hue div {
+	background-image: url(../image/iwatermark/custom_indic.gif);
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_hex {
+	background-image: url(../image/iwatermark/custom_hex.png);
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_rgb_r {
+	background-image: url(../image/iwatermark/custom_rgb_r.png);
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_rgb_g {
+	background-image: url(../image/iwatermark/custom_rgb_g.png);
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_rgb_b {
+	background-image: url(../image/iwatermark/custom_rgb_b.png);
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_hsb_s {
+	background-image: url(../image/iwatermark/custom_hsb_s.png);
+	display: none;
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_hsb_h {
+	background-image: url(../image/iwatermark/custom_hsb_h.png);
+	display: none;
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_hsb_b {
+	background-image: url(../image/iwatermark/custom_hsb_b.png);
+	display: none;
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker_submit {
+	background-image: url(../image/iwatermark/custom_submit.png);
+}
+.iWatermarkContent .box .colorpickerHolder .colorpicker input {
+	color: #778398;
+}
+
+.iWatermarkContent .box a.needMoreSize {
+	text-decoration: none;
+	color: #0074B6;
+	background: url("../image/iwatermark/linkIcon.png") no-repeat left top;
+	padding: 0 0 0 12px;
+	display: inline-block;
+	margin: 0 0 0 15px;
+	height: 20px;
+	line-height: 20px;
+}
+
+.iWatermarkContent .box span.fileSizeInfo {
+	font-size: 12px;
+	margin: 3px 0 0 0;
+	line-height: 12px;
+	color: #6D6D6D;
+	background: url("../image/iwatermark/warningIcon.png") no-repeat left top;
+	height: 18px;
+	padding: 0 0 0 17px;
+	display: inline-block;
+}
