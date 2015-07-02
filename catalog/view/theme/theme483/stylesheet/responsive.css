@@ -1605,7 +1605,7 @@
 	}
 	header #cart.active .content .content-scroll {
 		height: 100%;
-		max-height: 217px;
+		max-height: 241px;
 		padding-bottom: 10px;
 		overflow-y:scroll;
 		webkit-overflow-y:scroll;
@@ -1733,6 +1733,20 @@
 	  height: 290px !important;
 	  overflow: hidden;
 	}
+
+	footer .block .block-heading{
+		margin: 15px 0 4px 0;
+	}
+	.cart a#button-cart{
+		margin-left: -25px;
+	}
+
+	a.button-cont-right{
+		float: left;
+	}
+	.cart-bottom a.button-cont-right{
+		margin: 0 -166px 20px 60px;
+	}
 }
 
 
@@ -1767,7 +1781,7 @@
 
 	.camera_target{
 		margin-top: -20px;
-		height: 125px;
+		height: 115px;
 	}
 }
 

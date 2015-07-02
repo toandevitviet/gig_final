@@ -228,6 +228,7 @@ class ControllerProductCategory extends Controller {
 					'image' => $result['image'], 
 					'name'  => $result['name'] . ($this->config->get('config_product_count') ? ' (' . $product_total . ')' : ''),
 					'href'  => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url),
+
                     'thumb' => $image
 					
 				);
