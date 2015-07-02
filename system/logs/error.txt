@@ -2010,3 +2010,8 @@
 2015-07-02 11:23:00 - PHP Notice:  Undefined variable: product_id in D:\xampp\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 410
 2015-07-02 11:23:02 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
 2015-07-02 11:23:17 - PHP Notice:  Undefined variable: product_id in D:\xampp\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 410
+2015-07-02 11:34:53 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-02 11:35:58 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-02 11:35:58 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-02 11:39:19 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-02 11:40:40 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16

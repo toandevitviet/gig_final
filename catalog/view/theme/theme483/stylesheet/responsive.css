@@ -1738,14 +1738,15 @@
 		margin: 15px 0 4px 0;
 	}
 	.cart a#button-cart{
-		margin-left: -25px;
+		margin-left: -40px ;
 	}
 
 	a.button-cont-right{
 		float: left;
 	}
 	.cart-bottom a.button-cont-right{
-		margin: 0 -166px 20px 60px;
+		/*margin: 0 -166px 20px 60px;*/
+		margin: 0px -190px 20px 60px;
 	}
 }
 
