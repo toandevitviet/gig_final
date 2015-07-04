@@ -2015,3 +2015,359 @@
 2015-07-02 11:35:58 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
 2015-07-02 11:39:19 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
 2015-07-02 11:40:40 - PHP Notice:  Undefined variable: text_feedback in D:\xampp\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:19:10 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:19:49 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:32:58 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:34:31 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:34:55 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:35:27 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:35:50 - PHP Notice:  Undefined variable: product_id in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 410
+2015-07-04 16:36:22 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:37:13 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:37:20 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:38:12 - PHP Notice:  Undefined variable: attribute_row in E:\DATA\WEB\Run\htdocs\gig_final\admin\view\template\catalog\product_form.tpl on line 838
+2015-07-04 16:38:12 - PHP Notice:  Undefined variable: discount_row in E:\DATA\WEB\Run\htdocs\gig_final\admin\view\template\catalog\product_form.tpl on line 1077
+2015-07-04 16:38:12 - PHP Notice:  Undefined variable: special_row in E:\DATA\WEB\Run\htdocs\gig_final\admin\view\template\catalog\product_form.tpl on line 1104
+2015-07-04 16:39:12 - PHP Notice:  Undefined index: points in E:\DATA\WEB\Run\htdocs\gig_final\admin\model\catalog\product.php on line 127
+2015-07-04 16:39:15 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:39:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:39:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:39:15 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:39:15 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:39:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:39:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:39:15 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:39:15 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:39:15 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:39:15 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:39:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:39:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:39:15 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:39:15 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:39:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:39:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:39:15 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:39:15 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:39:15 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:39:15 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:39:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:39:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:39:15 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:39:15 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:39:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:39:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:39:15 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:39:15 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:39:15 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:39:15 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:39:43 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:40:11 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:40:27 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:40:47 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:41:08 - PHP Notice:  Undefined variable: product_id in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 410
+2015-07-04 16:41:18 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:46:06 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:46:54 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:46:54 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:46:54 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:46:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:46:54 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:46:54 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:46:54 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:46:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:46:54 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:46:54 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:46:54 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:46:54 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:46:54 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:46:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:46:54 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:46:54 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:46:54 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:46:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:46:54 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:46:54 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:11 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:11 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:11 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:11 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:11 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:11 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:11 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:11 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:11 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:11 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:11 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:11 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:11 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:11 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:12 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:12 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:12 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:12 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:12 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:12 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:12 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:12 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:12 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:12 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:12 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:12 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:12 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:12 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:12 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:12 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:12 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:12 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:12 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:12 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:12 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:12 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:12 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:12 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:12 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:12 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:12 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:12 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:12 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:12 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:13 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:13 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:13 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:13 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:13 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:13 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:13 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:13 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:13 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:13 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:13 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:13 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:13 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:13 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:13 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:13 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:13 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:13 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:13 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:13 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:13 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:13 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:13 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:13 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:13 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:13 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:13 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:14 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:14 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:14 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:14 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:14 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:14 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:14 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:14 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:14 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:14 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:14 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:14 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:14 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:14 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:14 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:14 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:14 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:14 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:14 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:14 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:14 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:14 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:15 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:15 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:15 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:15 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:15 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:15 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:15 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:15 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:15 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:15 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:15 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:15 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:15 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:15 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:15 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:16 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:16 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:16 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:16 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:16 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:16 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:16 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:16 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:16 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:16 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:16 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:16 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:16 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:16 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:16 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:16 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:16 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:16 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:16 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:16 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:16 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:16 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:16 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:16 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:16 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:17 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:17 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:17 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:17 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:17 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:17 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:17 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:17 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:17 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:17 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:17 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:17 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:17 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:17 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:17 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:17 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:17 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:17 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:17 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:17 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:17 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:17 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:17 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:17 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:17 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:17 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:17 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:18 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:18 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:18 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:18 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:18 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:18 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:18 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:18 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:18 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:18 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:18 - PHP Warning:  imagecreatefrompng(/home/sssmine/www/gigprinting/vendors/iwatermark/current_watermark/0/GIG Stock.png): failed to open stream: No such file or directory in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 140
+2015-07-04 16:47:18 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 143
+2015-07-04 16:47:18 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 144
+2015-07-04 16:47:18 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:18 - PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 158
+2015-07-04 16:47:18 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 160
+2015-07-04 16:47:18 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 161
+2015-07-04 16:47:18 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 205
+2015-07-04 16:47:18 - PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 207
+2015-07-04 16:47:18 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-system_library_image.php on line 209
+2015-07-04 16:47:18 - PHP Notice:  Undefined variable: product_id in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 410
+2015-07-04 16:58:25 - PHP Notice:  Undefined variable: product_id in E:\DATA\WEB\Run\htdocs\gig_final\vqmod\vqcache\vq2-catalog_controller_product_category.php on line 410
+2015-07-04 16:58:42 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16
+2015-07-04 16:59:14 - PHP Notice:  Undefined variable: text_feedback in E:\DATA\WEB\Run\htdocs\gig_final\catalog\view\theme\theme483\template\module\information.tpl on line 16

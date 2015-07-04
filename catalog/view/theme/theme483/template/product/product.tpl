@@ -21,24 +21,21 @@
 		});
 	</script>
 	<?php 
-    
-        //$url = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-        //echo $url . '<br>';
        if ($id_category_find == 1) {
             $find = true;
         } else {
-                $find = false;
+            $find = false;
         }
 
     ?>
-    
-    <?php if( isset($find) && $find == 1 ) {?>
+    <?php echo $find; ?>
+    <?php if( isset($find) && $find != 1 ) {?>
 	<?php $i=0; if ($thumb || $images) {$i++  ?>
         <div id="full_gallery">
             <ul id="gallery">
                 <?php if (!empty($thumb1)) { ?><li><a href="<?php echo $thumb1;  ?>" data-something="something" data-another-thing="anotherthing"><img src="<?php echo $thumb1; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li><?php } ?>
                 <?php foreach ($images as $image) { ?>
-                <li><a href="<?php echo $image['popup']; ?>" data-something="something<?php echo $i?>" data-another-thing="anotherthing<?php echo $i?>"><img src="<?php echo $image['popup']; ?>" alt="<?php echo $heading_title; ?>"  width="70" height="70"/></a></li>
+                <li><a href="<?php echo $image['popup']; ?>" data-something="something<?php echo $i?>" data-another-thing="anotherthing<?php echo $i?>"><img src="<?php echo $image['popup']; ?>" alt="<?php echo $heading_title; ?>"/></a></li>
                 <?php } ?>
             </ul>		
 	</div>	
@@ -47,9 +44,9 @@
         <?php $i=0; if ($thumb || $images) {$i++  ?>
         <div id="full_gallery">
             <ul id="gallery">
-                <?php if (!empty($thumb1)) { ?><li><a href="<?php echo 'image/' . $image_product;  ?>" data-something="something" data-another-thing="anotherthing"><img src="<?php echo 'image/' . $image_product; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li><?php } ?>
+                <?php if (!empty($thumb1)) { ?><li><a href="<?php echo $thumb1;  ?>" data-something="something" data-another-thing="anotherthing"><img src="<?php echo $thumb1; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li><?php } ?>
                 <?php foreach ($images as $image) { ?>
-                <li><a href="<?php echo 'image/' . $image_product_popup; ?>" data-something="something<?php echo $i?>" data-another-thing="anotherthing<?php echo $i?>"><img src="<?php echo 'image/' . $image_product_popup; ?>" alt="<?php echo $heading_title; ?>"  width="70" height="70"/></a></li>
+                <li><a href="<?php echo $image['popup']; ?>" data-something="something<?php echo $i?>" data-another-thing="anotherthing<?php echo $i?>"><img src="<?php echo $image['popup']; ?>" alt="<?php echo $heading_title; ?>"/></a></li>
                 <?php } ?>
             </ul>
         </div> 
